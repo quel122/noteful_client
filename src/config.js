@@ -1,3 +1,3 @@
 export default {
-  API_ENDPOINT: 'https://shielded-plains-78584.herokuapp.com'
+  API_ENDPOINT: 'https://gentle-island-01110.herokuapp.com'
 }
